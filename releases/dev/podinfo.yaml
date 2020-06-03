@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: vgulch/podinfo
-      tag: dev-dvicn1wh
+      tag: dev-oxdkqmtg
     replicaCount: 1
     hpa:
       enabled: false

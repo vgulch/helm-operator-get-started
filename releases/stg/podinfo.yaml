@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: vgulch/podinfo
-      tag: stg-9ij63o4c
+      tag: stg-ox3rj34h
     replicaCount: 2
     hpa:
       enabled: true

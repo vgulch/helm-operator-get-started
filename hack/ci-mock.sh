@@ -27,7 +27,7 @@ if [ -z "${version}" ]; then
     version="0.4.0"
 else
     image="${repository}:${version}"
-    image_my="${repository}:${version}"
+    image_my="${repository_my}:${version}"
 fi
 
 echo ">>>> Building image ${image} <<<<"
